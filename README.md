@@ -50,7 +50,7 @@ If you're working on interesting problems in the web3 space, I'd love to connect
 I occasionally write about blockchain technology and development:
 
 - [Creating Governance Proposals for Berachain Reward Vaults](https://blog.berachain.com/blog/creating-a-governance-proposal-for-berachain-reward-vaults)
-- [Berachain Thread: Governance Explained](https://x.com/dablackbera/status/1839727208132210916)
-- [Berachain Thread: Core Protocol Components](https://x.com/dablackbera/status/1840895407464845321)
-- [Berachain Thread: Scaling Solutions](https://x.com/dablackbera/status/1852320201146318876)
+- [Berachain Thread: Governance Explained](https://x.com/0xired/status/1839727208132210916)
+- [Berachain Thread: Core Protocol Components](https://x.com/0xired/status/1840895407464845321)
+- [Berachain Thread: Scaling Solutions](https://x.com/0xired/status/1852320201146318876)
 - [Blog Posts](https://mirror.xyz/0x0e729b11661B3f1C1E829AAdF764D5C3295e1256)

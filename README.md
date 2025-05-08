@@ -2,11 +2,11 @@ source for [bumpcrypto.github.io](https://bumpcrypto.github.io)
 
 # Red Panda
 
-contact me on [twitter](https://twitter.com/dablackbera), [github](https://github.com/blackbera) or via email
+contact me on [twitter](https://twitter.com/0xiredpanda), [github](https://github.com/bumpcrypto) or via email
 
-I'm a protocol/full stack engineer and consultant specializing in blockchain development and developer relations. 
+I'm a protocol/full stack engineer and consultant specializing in app development and sometimes building developer communities. 
 
-My technical interests are in decentralized governance, rollups, and custom EVM hooks. My engineering focus is on building high-quality web3 applications and tools that drive real-world adoption of blockchain technology.
+My technical interests are in game theory and incentive structures for defi protocols. My engineering focus is on building high-quality web3 applications and tools that drive real-world adoption of blockchain technology.
 
 If you're working on interesting problems in the web3 space, I'd love to connect and discuss potential collaborations.
 

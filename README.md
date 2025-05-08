@@ -1,6 +1,6 @@
 source for [bumpcrypto.github.io](https://bumpcrypto.github.io)
 
-# Andrew Blackbera
+# Red Panda
 
 contact me on [twitter](https://twitter.com/dablackbera), [github](https://github.com/blackbera) or via email
 
